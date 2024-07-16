@@ -1,5 +1,7 @@
-import "./App.css";
-
 export const App = (): JSX.Element => {
-  return <></>;
+  return (
+    <>
+      <div>Hello</div>
+    </>
+  );
 };
